@@ -1,5 +1,4 @@
-Flask
-gunicorn
+streamlit
 numpy
 scikit-learn
 pickle-mixin
